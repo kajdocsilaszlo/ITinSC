@@ -8,4 +8,4 @@
 
 2nd lecture: Introduction to Networks
 
-3rd lecture: Wireless Network Technologies
+3rd lecture: Today's Wireless Network Technologies
